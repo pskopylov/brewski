@@ -14,6 +14,7 @@ dist/
 downloads/
 eggs/
 .eggs/
+brewski/.env
 lib/
 lib64/
 parts/
@@ -102,7 +103,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+brewski/.env
 .venv
 env/
 venv/
